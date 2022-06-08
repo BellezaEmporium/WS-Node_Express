@@ -1,0 +1,23 @@
+{
+  "name": "ws-node_express",
+  "version": "1.0.0",
+  "description": "Workshop A4DEV",
+  "main": "api.js",
+  "scripts": {
+    "main": "node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaneSh4d0w/WS-Node_Express.git"
+  },
+  "author": "LS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaneSh4d0w/WS-Node_Express/issues"
+  },
+  "homepage": "https://github.com/LaneSh4d0w/WS-Node_Express#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "typescript": "^4.7.3"
+  }
+}
